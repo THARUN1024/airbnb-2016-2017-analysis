@@ -1,8 +1,8 @@
-# airbnb-2016-2017-analysis
-# Airbnb Data Analysis (2016-2017)
+# airbnb-2016-analysis
+# Airbnb Data Analysis (2016)
 
 ## Project Overview
-This project analyzes Airbnb listing data from 2016-2017 using Tableau for visualization and insights. The dataset includes listings and calendar data, which were processed and joined to provide a comprehensive view of Airbnb performance metrics such as price per bedroom, revenue trends, and price distributions across zip codes. The aim is to help stakeholders make data-driven decisions regarding pricing, property investments, and market analysis.
+This project analyzes Airbnb listing data of 2016 using Tableau for visualization and insights. The dataset includes listings and calendar data, which were processed and joined to provide a comprehensive view of Airbnb performance metrics such as price per bedroom, revenue trends, and price distributions across zip codes. The aim is to help stakeholders make data-driven decisions regarding pricing, property investments, and market analysis.
 
 ---
 
